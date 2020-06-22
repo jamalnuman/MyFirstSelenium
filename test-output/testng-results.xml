@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5165" started-at="2020-06-21T05:58:07Z" finished-at="2020-06-21T05:58:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5165" started-at="2020-06-21T05:58:07Z" finished-at="2020-06-21T05:58:12Z">
+      <class name="com.platform.project.tests.HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.platform.project.tests.HomePageTest@50a7bc6e]" name="setup" is-config="true" duration-ms="4393" started-at="2020-06-21T00:58:07Z" finished-at="2020-06-21T00:58:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="checkHomePage()[pri:0, instance:com.platform.project.tests.HomePageTest@50a7bc6e]" name="checkHomePage" duration-ms="672" started-at="2020-06-21T00:58:11Z" finished-at="2020-06-21T00:58:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkHomePage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.platform.project.tests.HomePageTest@50a7bc6e]" name="tearDown" is-config="true" duration-ms="90" started-at="2020-06-21T00:58:12Z" finished-at="2020-06-21T00:58:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.platform.project.tests.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

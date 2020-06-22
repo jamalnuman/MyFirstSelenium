@@ -1,0 +1,4 @@
+com/platform/project/tests/HomePageTest.class
+com/platform/project/commons/GeneralUtility.class
+com/platform/project/pageObjects/HomePage.class
+com/platform/project/pageObjects/LoginPage.class

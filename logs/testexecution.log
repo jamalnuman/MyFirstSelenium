@@ -1,0 +1,8 @@
+2020-06-21 00:58:07,389, 0(ms), [com.platform.project.commons.ReadPropertyFile] - Value in property file for browser is chrome
+2020-06-21 00:58:07,389, 0(ms), [com.platform.project.commons.WebDriverManager] - MAC OS is detected
+2020-06-21 00:58:07,389, 0(ms), [com.platform.project.commons.WebDriverManager] - Chrome browser detected
+2020-06-21 00:58:08,900, 1511(ms), [com.platform.project.commons.WebDriverManager] - Driver initialization is successful
+2020-06-21 00:58:08,927, 1538(ms), [com.platform.project.pageObjects.HomePage] - Opening Home Page
+2020-06-21 00:58:08,927, 1538(ms), [com.platform.project.commons.ReadPropertyFile] - Value in property file for homePageURL is http://107.170.213.234/catalog
+2020-06-21 00:58:11,760, 4371(ms), [com.platform.project.pageObjects.HomePage] - Home Page Title text is: Welcome to iBusiness
+2020-06-21 00:58:12,397, 5008(ms), [com.platform.project.commons.Commons] - Screenshot 2020-06-21_00.58.11_HomePage_getHomePageTitle.png taken
